@@ -6,6 +6,8 @@ public class orenci {
 
         System.out.println("merhaba");
 
+        System.out.println("task 2");
+
 
 
     }
