@@ -1,13 +1,10 @@
 package Gun01;
 
-public class orenci {
+public class student {
     public static void main(String[] args) {
 
 
         System.out.println("merhaba");
-
-        System.out.println("task 2");
-
 
 
     }
